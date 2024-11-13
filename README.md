@@ -1,11 +1,12 @@
 <h1 align="center">Oi 👋, Eu sou o Gustavo Ruschel</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital.</h3>
+<h3 align="center">Apaixonado por Tecnologia no mundo digital.</h3>
+<h2 align="center">Desenvolvedor com background de Analista de dados.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou aprendendo **JavaScript, React, C# e Python**
 
 - 📄 Todos os meus projetos estarão disponiveis em [https://github.com/users/GustavoRuschel/projects/](https://github.com/users/GustavoRuschel/projects/)
 
-- 👩‍💻 Me pergunta qualquer coisa relacionado a **SQL/Excel/Power BI**
+- 👩‍💻 Me pergunta qualquer coisa relacionado a **SQL/JS/C#/Power BI**
 
 - 📫 Me contate através **gugaruschel98@gmail.com ou www.linkedin.com/in/gustavoruschel**
 
